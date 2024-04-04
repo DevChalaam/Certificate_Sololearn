@@ -3,7 +3,7 @@
 
 ## Certificate Sololearn
 CERTIFICATE SOLOLEARN HTML
-![HTMLCourse_Certificate](https://github.com/DevChalaam/push-project-repository/assets/124075393/78217f5a-a061-408f-a97e-947685423a7b)
+![HTMLCourse_Certificate](https://github.com/DevChalaam/Certificate_Sololearn/assets/124075393/867b5a7e-5221-47fa-a63f-3faf81e16749)
 
 CERTIFICATE SOLOLEARN PYTHON FOR BEGINNERS
-![PythonForBeginners_Certificate](https://github.com/DevChalaam/push-project-repository/assets/124075393/1babdc98-f496-47bd-b9a6-a3800c7c0dd1)
+![PythonForBeginners_Certificate](https://github.com/DevChalaam/Certificate_Sololearn/assets/124075393/3726b57a-1318-48cf-84bc-7bedc98c32d7)
